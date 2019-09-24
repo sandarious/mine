@@ -1,0 +1,26 @@
+body{
+    background: wheat;
+}
+h2{
+    color: saddlebrown;
+}
+h3{
+    color: blueviolet
+}
+ul{
+    color: brown;
+}
+p{
+    color: brown
+}
+main{
+    float: left; width: 50%; 
+}
+*{
+    box-sizing: border-box; text-decoration: none;
+}
+#container{
+    background: powderblue;
+    width: 80%; margin: 10px auto; overflow: hidden; 10px;
+}
+
